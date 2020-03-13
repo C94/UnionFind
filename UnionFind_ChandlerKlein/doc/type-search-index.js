@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.unionfind.chandlerklein","l":"DisjointSet"},{"p":"com.unionfind.chandlerklein","l":"Main"}]
