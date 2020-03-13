@@ -18,7 +18,7 @@ This repository also includes a PDF report that describes the algorithm design a
 
 ## Getting Started
 
-To test the program, import the 'A3_ChandlerKlein/' Eclipse project into your workspace. Make sure you have the correct eclipse version and are using a compatible Java version.
+To test the program, import the 'UnionFind_ChandlerKlein/' Eclipse project into your workspace. Make sure you have the correct eclipse version and are using a compatible Java version.
 
 ### Prerequisites
 
@@ -42,4 +42,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Techie Delight](https://www.techiedelight.com/disjoint-set-data-structure-union-find-algorithm/)
 
 * [Disjoint-set data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
-
