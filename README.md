@@ -31,7 +31,7 @@ Java SDK version 13
 
 ## Author
 
-* **Chandler Klein** - [KleinC16](https://github.com/KleinC16)
+* **Chandler Klein** - [ChandlerKlein](https://github.com/chandlerklein)
 
 ## License
 
