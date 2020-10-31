@@ -31,7 +31,7 @@ Java SDK version 13
 
 ## Author
 
-* **Chandler Klein** - [ChandlerKlein](https://github.com/chandlerklein)
+* **Chandler Klein** - [C94](https://github.com/c94)
 
 ## License
 
