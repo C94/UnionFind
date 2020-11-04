@@ -1,6 +1,6 @@
 # Number of Tables at a Wedding Using Union-Find
 
-This goal of this pro   many tables are necessary.
+This goal of this program is to find out how many tables are necessary.
 
 This Java program takes in a input file of the form:
 ```
